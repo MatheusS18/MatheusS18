@@ -1,4 +1,4 @@
-## Hi there 👋
+## Eai, beleza ? Bem vindo ao meu GitHub👋
 
 
 - 🔭 I’m currently working on ...
@@ -12,7 +12,21 @@
 -->
 
 
+<div style="display: flex; justify-content: space-between;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MATHEUS&theme=radical&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuss18&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5"/>
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MATHEUS&theme=radical&show_icons=true)]([(https://github.com/MatheusS18?tab=repositories&theme=dark)])
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuss18&layout=compact&theme=radical)](https://github.com/MatheusS18?tab=repositories)
+<div style= "display:  inline_block"><br>
+  
+  <img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+  <img align= "center" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+  <img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />  
+  <img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+          
+</div>          
