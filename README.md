@@ -54,3 +54,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-origi
   <img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
           
 </div>          
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusS18/MatheusS18/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusS18/MatheusS18/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusS18/MatheusS18/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+
