@@ -5,21 +5,18 @@
 - 🏗 Construindo infraestrutura na AWS com Terraform  
 - 🤖 Fazendo um bot para Discord/Telegram  
 
-### 📚 Estudando agora:
-- 📖 Inglês para área de tecnologia  
-- 🐳 Docker e Kubernetes  
-- 🗄 Banco de dados SQL e NoSQL  
-
 ### 🛠 Posso ajudar com:
 - 🐍 Python (scripts, automação, APIs)  
 - ☁️ Cloud (AWS, Terraform, organização de infraestrutura)  
 - 📊 Banco de dados (modelagem e queries)  
+- 🐳 Docker e Kubernetes
 
 ### ⚡ Curiosidade aleatória:
 - 🖥 Já transformei um notebook velho em mini servidor, utilizando **Xubuntu**  
 - ☕ Consigo sobreviver com café e código por dias 😆  
 
 ---
+## 
 <div>
   <a href="https://www.instagram.com/matheus_steffan/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" />
