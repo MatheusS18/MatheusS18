@@ -1,15 +1,27 @@
 ## Eai, beleza ? Bem vindo ao meu GitHub👋
 
+💻 Projetos atuais:
+> Criando scripts em Python para automação
+> Construindo infraestrutura na AWS com Terraform
+> Fazendo um bot para Discord/Telegram
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Estudando agora:
+> Inglês para área de tecnologia
+> Docker e Kubernetes
+> Banco de dados SQL e NoSQL
+
+🛠 Posso ajudar com:
+> Python (scripts, automação, APIs)
+> Cloud (AWS, Terraform, organização de infraestrutura)
+> Banco de dados (modelagem e queries)
+
+📫 Como falar comigo:
+> LinkedIn: www.linkedin.com/in/matheus-steffan
+> Email: matheussteffan11@gmail.com
+
+⚡ Curiosidade aleatória:
+> Já transformei um notebook velho em mini servidor, utilizando Xubuntu
+> Consigo sobreviver com café e código por dias 😆
 
 
 <div style="display: flex; justify-content: space-between;">
