@@ -1,27 +1,29 @@
-## Eai, beleza ? Bem vindo ao meu GitHub👋
+## Eai, beleza? Bem vindo ao meu GitHub👋
 
-💻 Projetos atuais:
-> Criando scripts em Python para automação
-> Construindo infraestrutura na AWS com Terraform
-> Fazendo um bot para Discord/Telegram
+### 💻 Projetos atuais:
+- 🚀 Criando scripts em Python para automação  
+- 🏗 Construindo infraestrutura na AWS com Terraform  
+- 🤖 Fazendo um bot para Discord/Telegram  
 
-📚 Estudando agora:
-> Inglês para área de tecnologia
-> Docker e Kubernetes
-> Banco de dados SQL e NoSQL
+### 📚 Estudando agora:
+- 📖 Inglês para área de tecnologia  
+- 🐳 Docker e Kubernetes  
+- 🗄 Banco de dados SQL e NoSQL  
 
-🛠 Posso ajudar com:
-> Python (scripts, automação, APIs)
-> Cloud (AWS, Terraform, organização de infraestrutura)
-> Banco de dados (modelagem e queries)
+### 🛠 Posso ajudar com:
+- 🐍 Python (scripts, automação, APIs)  
+- ☁️ Cloud (AWS, Terraform, organização de infraestrutura)  
+- 📊 Banco de dados (modelagem e queries)  
 
-📫 Como falar comigo:
-> LinkedIn: www.linkedin.com/in/matheus-steffan
-> Email: matheussteffan11@gmail.com
+### 📫 Como falar comigo:
+- 💼 LinkedIn: [Matheus Steffan](https://www.linkedin.com/in/matheus-steffan)  
+- 📧 Email: matheussteffan11@gmail.com  
 
-⚡ Curiosidade aleatória:
-> Já transformei um notebook velho em mini servidor, utilizando Xubuntu
-> Consigo sobreviver com café e código por dias 😆
+### ⚡ Curiosidade aleatória:
+- 🖥 Já transformei um notebook velho em mini servidor, utilizando **Xubuntu**  
+- ☕ Consigo sobreviver com café e código por dias 😆  
+
+---
 
 
 <div style="display: flex; justify-content: space-between;">
