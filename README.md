@@ -15,10 +15,6 @@
 - ☁️ Cloud (AWS, Terraform, organização de infraestrutura)  
 - 📊 Banco de dados (modelagem e queries)  
 
-### 📫 Como falar comigo:
-- 💼 LinkedIn: [Matheus Steffan](https://www.linkedin.com/in/matheus-steffan)  
-- 📧 Email: matheussteffan11@gmail.com  
-
 ### ⚡ Curiosidade aleatória:
 - 🖥 Já transformei um notebook velho em mini servidor, utilizando **Xubuntu**  
 - ☕ Consigo sobreviver com café e código por dias 😆  
@@ -33,7 +29,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="www.linkedin.com/in/matheus-steffan">
+  <a href="https://www.linkedin.com/in/matheus-steffan/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
