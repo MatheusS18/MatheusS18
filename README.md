@@ -24,7 +24,21 @@
 - ☕ Consigo sobreviver com café e código por dias 😆  
 
 ---
+<div>
+  <a href="https://www.instagram.com/matheus_steffan/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
+  <a href="mailto:matheussteffan11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="www.linkedin.com/in/matheus-steffan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
 
 <div style="display: flex; justify-content: space-between;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MATHEUS&theme=radical&show_icons=true"/>
