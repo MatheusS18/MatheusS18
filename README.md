@@ -1,4 +1,4 @@
-## Eai, beleza? Bem vindo ao meu GitHub👋
+## Bem vindo ao meu GitHub👋
 
 ### 💻 Projetos atuais:
 - 🚀 Criando scripts em Python para automação  
