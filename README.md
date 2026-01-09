@@ -2,8 +2,7 @@
 
 ### 💻 Projetos atuais:
 - 🚀 Criando scripts em Python para automação  
-- 🏗 Construindo infraestrutura na AWS com Terraform  
-- 🤖 Fazendo um bot para Discord/Telegram  
+- 🏗 Construindo infraestrutura na AWS com Terraform    
 
 ### 🛠 Posso ajudar com:
 - 🐍 Python (scripts, automação, APIs)  
@@ -12,8 +11,7 @@
 - 🐳 Docker e Kubernetes
 
 ### ⚡ Curiosidade aleatória:
-- 🖥 Já transformei um notebook velho em mini servidor, utilizando **Xubuntu**  
-- ☕ Consigo sobreviver com café e código por dias 😆  
+- 🖥 Já transformei um notebook velho em mini servidor, utilizando **Xubuntu**   
 
 ---
 ## 
